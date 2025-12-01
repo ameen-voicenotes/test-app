@@ -10,7 +10,7 @@ import Sound, {
   RecordBackType,
   PlayBackType,
 } from 'react-native-nitro-sound';
-import { RecordingStarter } from 'react-native-recording-starter';
+// import { RecordingStarter } from 'react-native-recording-starter';
 import { AppRegistry } from 'react-native';
 import { NitroSound } from 'react-native-nitro-sound';
 
