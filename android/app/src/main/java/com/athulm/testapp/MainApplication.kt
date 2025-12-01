@@ -1,4 +1,4 @@
-package com.testapp
+package com.athulm.testapp
 
 import android.app.Application
 import android.content.res.Configuration
